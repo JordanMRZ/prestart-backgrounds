@@ -70,9 +70,9 @@
     "textColor": "#86001D"
   },
   "Hungary": {
-    "file": "Hungary.png",
-    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Hungary.png",
-    "updatedAt": 2,
+    "file": "Hungary.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Hungary.svg",
+    "updatedAt": 3,
     "author": "Mar",
     "textColor": "#57745D"
   }
