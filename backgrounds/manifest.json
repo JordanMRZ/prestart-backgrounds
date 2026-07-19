@@ -1,0 +1,79 @@
+{
+  "Australia": {
+    "file": "Australia.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Australia.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#8B4513"
+  },
+  "China": {
+    "file": "China.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/China.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#671900"
+  },
+  "Japan": {
+    "file": "Japan.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Japan.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#4D4D4D"
+  },
+  "Miami": {
+    "file": "Miami.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Miami.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#163232"
+  },
+  "Canada": {
+    "file": "Canada.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Canada.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#8C0A05"
+  },
+  "Monaco": {
+    "file": "Monaco.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Monaco.svg",
+    "updatedAt": 2,
+    "author": "Mar",
+    "textColor": "#500000"
+  },
+  "Spain": {
+    "file": "Spain.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Spain.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#005668"
+  },
+  "Austria": {
+    "file": "Austria.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Austria.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#001B3E"
+  },
+  "Great Britain": {
+    "file": "Great_Britain.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Great_Britain.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#001B3C"
+  },
+  "Belgium": {
+    "file": "Belgium.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Belgium.svg",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#86001D"
+  },
+  "Hungary": {
+    "file": "Hungary.png",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Hungary.png",
+    "updatedAt": 2,
+    "author": "Mar",
+    "textColor": "#57745D"
+  }
+}
