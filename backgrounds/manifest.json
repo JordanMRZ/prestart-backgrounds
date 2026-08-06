@@ -74,6 +74,14 @@
     "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Hungary.svg",
     "updatedAt": 3,
     "author": "Mar",
-    "textColor": "#57745D"
+    "textColor": "#57745D",
+    "soften": false
+  },
+  "Netherlands": {
+    "file": "Netherlands.svg",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Netherlands.svg",
+    "updatedAt": 1,
+    "author": "Mar",
+    "textColor": "#9A4E28"
   }
 }
