@@ -83,5 +83,12 @@
     "updatedAt": 1,
     "author": "Mar",
     "textColor": "#9A4E28"
+  },
+  "Italy": {
+    "file": "Italy.png",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Italy.png",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#0D2A00"
   }
 }
