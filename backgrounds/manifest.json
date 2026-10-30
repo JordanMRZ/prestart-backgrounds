@@ -90,5 +90,12 @@
     "updatedAt": 1,
     "author": "Arthy",
     "textColor": "#0D2A00"
+  },
+  "Mexico": {
+    "file": "Mexico.png",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Mexico.png",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#0C3324"
   }
 }
