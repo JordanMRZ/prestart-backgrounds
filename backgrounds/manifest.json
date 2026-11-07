@@ -97,5 +97,12 @@
     "updatedAt": 1,
     "author": "Arthy",
     "textColor": "#0C3324"
+  },
+  "Brazil": {
+    "file": "Brazil.png",
+    "url": "https://cdn.jsdelivr.net/gh/JordanMRZ/prestart-backgrounds@main/backgrounds/Brazil.png",
+    "updatedAt": 1,
+    "author": "Arthy",
+    "textColor": "#5C1014"
   }
 }
